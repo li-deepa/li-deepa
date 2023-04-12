@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @li-deepa
-- 👀 I’m interested in python backend development
+- 👀 I’m interested in python automation and backend
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on backend development projects
+- 💞️ I’m looking to collaborate on backend development projects or automation projects
 - 📫 How to reach me li.deepa02@gmail.com
 
 <!---
