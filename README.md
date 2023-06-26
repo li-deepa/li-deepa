@@ -40,7 +40,8 @@ ___
 * Involved in test scripts review.
 * Performed Manual Testing to test the usability of the application.
 * Verifying Test result and logging defects using Jira
-* Prepared Test Report based on the Test results.
+* Created testscripts using python pytest
+* knowledge on CI/CD pipelines using jenkins.
 
 **Assistant System Engineer,TCS,Aug 2012- Mar 2014**  
 * Worked for a Retail Networking project.
