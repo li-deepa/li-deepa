@@ -35,14 +35,14 @@ ___
 
 ___
 ## Work Experience
-**Software Tester, Sailotech,INDIA SEP 2015- OCT 2019**    
+**Software Tester, Sailotech,INDIA SEP 2014- OCT 2019**    
 * Performed Manual Testing on different Modules of the Application.
 * Involved in test scripts review.
 * Performed Manual Testing to test the usability of the application.
 * Verifying Test result and logging defects using Jira
 * Prepared Test Report based on the Test results.
 
-**Assistant System Engineer,TCS,Aug 2012- Mar 2015**  
+**Assistant System Engineer,TCS,Aug 2012- Mar 2014**  
 * Worked for a Retail Networking project.
 * Checking the plug and cable connection of cc cameras remotely which are in the retail stores.
 * Resolving the tickets raised by the customers within the time slot.
