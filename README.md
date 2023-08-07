@@ -1,6 +1,6 @@
 # Deepa Gorrela
 Location: Arcadia, CA  
-[Email](mailto:deepagorrela@gmail.com) | [LinkedIn](https://www.linkedin.com/in/deepa-g-11072320b/) | 
+[Email](mailto:li.deepa02@gmail.com) | [LinkedIn](https://www.linkedin.com/in/deepa-g-11072320b/) | 
 [GitHub](https://github.com/li-deepa?tab=repositories)
 
 ---
