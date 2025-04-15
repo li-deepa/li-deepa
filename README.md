@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Deepa 👋</h1>
 
 <p align="center">
-Welcome to my GitHub profile! I am a passionate <b>Automation Tester</b> and <b>Web Developer</b>, specializing in creating efficient test automation frameworks and user-friendly web applications. My expertise includes <b>manual testing</b>, <b>automation testing (Selenium)</b>, <b>Python</b>, and <b>Django</b>. I am always eager to learn and improve!
+Welcome to my GitHub profile! I am a passionate <b>Automation Tester</b> and <b>Web Developer</b>, specializing in creating efficient test automation frameworks and user-friendly web applications. My expertise includes <b>manual testing</b>, <b>automation testing (Selenium,Playwright)</b>, <b>Python</b>, and <b>Django</b>. I am always eager to learn and improve!
 </p>
 
 ---
