@@ -23,11 +23,7 @@ Welcome to my GitHub profile! I am a passionate <b>Automation Tester</b> and <b>
 
 ---
 
-<h2>🌟 Portfolio Highlights</h2>
-<p>
-Take a look at my portfolio for an overview of my work:
-<a href="https://himajasimhadri20.github.io/DataPortfolio/" target="_blank"><b>Visit My Portfolio</b></a>
-</p>
+
 
 ---
 
